@@ -1,2 +1,1 @@
-# Ecommerce Customer Behavior Data Analysis
-Customer segmentation and behavioral analysis using RFM, discount sensitivity, channel patterns, and product category insights.
+
